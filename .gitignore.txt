@@ -1,0 +1,9 @@
+# ignore all logs
+*.log
+# ignore all dll
+*.dll
+# ignore all png
+*.png
+
+**/x64/Debug/
+**/x64/Release/
