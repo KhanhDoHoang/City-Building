@@ -1,0 +1,6 @@
+# ignore all logs
+*.log
+# ignore all dll
+*.dll
+# ignore all png
+*.png
