@@ -4,3 +4,6 @@
 *.dll
 # ignore all png
 *.png
+
+**/x64/Debug/
+**/x64/Release/
